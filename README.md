@@ -6,7 +6,7 @@ to clean, store, query, and visualize retail sales data.
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python** (Pandas, Jupyter Notebook / Google Colab)
+- **Python** (Pandas,Google Colab)
 - **MySQL** (Database, Queries, Views)
 - **Power BI** (Interactive Dashboard)
 

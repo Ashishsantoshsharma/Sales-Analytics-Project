@@ -1,0 +1,1 @@
+SELECT SUM(Sales) AS total_revenue FROM sales_data;

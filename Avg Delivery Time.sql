@@ -1,0 +1,1 @@
+SELECT AVG(`Delivery Days`) AS avg_delivery_days FROM sales_data;
